@@ -1,0 +1,3 @@
+name: SoulItem
+version: ${project.version}
+main: cn.mokier.soulitem.SoulItem
